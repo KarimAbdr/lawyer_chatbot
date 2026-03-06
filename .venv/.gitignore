@@ -1,0 +1,17 @@
+.venv/
+env/
+venv/
+bin/
+lib/
+include/
+share/
+
+.env
+
+*.sqlite3
+src/data/
+
+__pycache__/
+.ipynb_checkpoints/
+
+.DS_Store
