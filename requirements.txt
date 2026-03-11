@@ -1,0 +1,7 @@
+fastapi==0.121.0
+uvicorn==0.38.0
+pydantic==2.12.4
+chromadb==1.5.2
+sentence-transformers
+google-genai
+python-dotenv==1.1.0
