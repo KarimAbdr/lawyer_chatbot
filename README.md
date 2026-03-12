@@ -1,6 +1,9 @@
 # MVP Czech Legal AI Assistant
 <img width="1466" height="850" alt="Screenshot 2026-03-12 at 20 29 05" src="https://github.com/user-attachments/assets/1de4dee9-bc80-42f1-882f-30ce9289af91" />
 
+
+<img width="1450" height="843" alt="Screenshot 2026-03-12 at 20 31 59" src="https://github.com/user-attachments/assets/34e1cef5-3f60-450c-a77e-0c6e8d5918b7" />
+
 A chatbot that answers questions about Czech business law using RAG (Retrieval-Augmented Generation). It reads actual legal text, finds the relevant sections, and gives you an answer with citations.
 
 Currently covers two laws:
